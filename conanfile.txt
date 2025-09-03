@@ -14,7 +14,7 @@ libiconv/1.17
 
 # Testing frameworks
 catch2/3.4.0
-gtest/1.14.0
+# gtest/1.14.0
 benchmark/1.8.3
 
 # Network and serialization
