@@ -7,9 +7,6 @@
     "enableReachability": true,
     "versioning": {    
       "conan": "2.20.1"   
-    },
-    "skipScanningStage": {
-      "connectivity": ["conan"]
     }
   },
   "checkRunSettings": {
